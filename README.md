@@ -2,13 +2,14 @@
 
 **Dual degree Undergraduate @ Duke University and Duke Kunshan University · LLM4AD Research**
 
-`Data Science` &nbsp; `LLMs · ML · NLP` &nbsp; `Shanghai, China`
+![Data Science](https://img.shields.io/badge/Data%20Science-4A90D9?style=flat&logoColor=white) ![LLMs · ML · NLP](https://img.shields.io/badge/LLMs%20·%20ML%20·%20NLP-6C5CE7?style=flat&logoColor=white) ![Shanghai, China](https://img.shields.io/badge/Shanghai%2C%20China-2D3436?style=flat&logo=googlemaps&logoColor=white)
 
 ---
 
 ### CURRENT RESEARCH
 
 **Large Language Models for Algorithm Design (LLM4AD)**
+
 Research Assistant to Dr. Mustafa Misir · DKU · Evaluating LLM-assisted pipelines integrating language models with evolutionary and neighborhood search methods to optimize algorithmic solutions.
 
 ---
@@ -21,10 +22,12 @@ Research Assistant to Dr. Mustafa Misir · DKU · Evaluating LLM-assisted pipeli
 
 ### CONNECT
 
-- mt508@duke.edu
-- - [LinkedIn](#) ← paste your URL
-  - - [Personal Website](#) ← add when ready
-   
-    - ---
+| | |
+|---|---|
+| Email | [mt508@duke.edu](mailto:mt508@duke.edu) |
+| LinkedIn | [linkedin.com/in/muhammad-anas-tahir](#) |
+| Website | [Coming soon](#) |
 
-    *Always building. Always learning.*
+---
+
+*Always building. Always learning.*
