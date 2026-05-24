@@ -19,4 +19,4 @@ Research Assistant to Dr. Mustafa Misir · Duke Kunshan University · Evaluating
 | | |
 |:---|:---|
 | Email | [mt508@duke.edu](mailto:mt508@duke.edu) |
-| LinkedIn | [linkedin.com/in/muhammad-anas-tahir](#) |
+| LinkedIn | [linkedin.com/in/muhammad-anas-tahir-3bb57619a](https://linkedin.com/in/muhammad-anas-tahir-3bb57619a) |
